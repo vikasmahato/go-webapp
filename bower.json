@@ -1,0 +1,22 @@
+{
+  "name": "shweta",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vikasmahato <vikasmahato0@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0",
+    "promiscuous": "~0.6.0"
+  }
+}
